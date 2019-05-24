@@ -1,7 +1,7 @@
 # Bitcoin_Price_Alert
 Receive SMS and Email notifications when the bitcoin price becomes more or less than a set limit in a certain currency.
 
-You need to have Twilio,Mailgun and Bolt IoT account because we will be using their APIs very frequently.
+You need to have Twilio,Mailgun account because we will be using their APIs very frequently.
 
 You need to have Python 3 installed with the following libraries:
 - 1.boltiot
