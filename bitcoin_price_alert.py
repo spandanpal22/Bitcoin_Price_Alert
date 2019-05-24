@@ -1,4 +1,4 @@
-from boltiot import Bolt,Sms,Email
+from boltiot import Sms,Email
 import json,time
 import bitcoin_conf as conf
 from requests import request
