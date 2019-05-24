@@ -8,6 +8,6 @@ You need to have Python 3 installed with the following libraries:
 - 2.requests
 
 You can install them by the command:
--pip install the_library_name_you_want_to_install
+- pip install the_library_name_you_want_to_install
 
 In the bitcoin_conf.py file fill your credentials then move to the bitcoin_price_alert.py file. I have given enough comments for better understanding of the code by you.
