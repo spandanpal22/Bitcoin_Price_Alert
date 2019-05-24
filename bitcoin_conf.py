@@ -9,9 +9,3 @@ SENDER_EMAIL = 'this will be test@your sand box url'
 RECIPIENT_EMAIL = 'the person you want to send to the mail'
 
 
-API_KEY = 'your bolt apikey'
-DEVICE_ID = 'your bolt device id'
-
-"""
-I have used Bolt IoT if you don't want to use it you can send only email, no sms
-""" 
